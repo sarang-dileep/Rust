@@ -1,3 +1,3 @@
-**My Learnings With Rust**
+# Borrowed Time: Learning Rust
 
 
